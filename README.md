@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raul-cordeiro
-- 👀 I’m interested in ...
-- 🌱 I’m currentlmente aprendendo JavaScript HTML CSS3.
+- 👀 I’m interested in Novos desafios
+- 🌱 I’m currentlmente aprendendo JavaScript HTML CSS3. 
 - 💞️ I’m looking to  emprego  na área de tecnologia
 - 📫 How to reach me ...  pelo WhatsApp 62 984687974    
 
