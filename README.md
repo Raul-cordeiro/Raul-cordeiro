@@ -1,11 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Meu+Nome+é+Raul+Cordeiro+;Estudo+Front-end+!;Obrigado+pela+visita!;Seja+Bem+vindo!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul-cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Raul Cordeiro github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-cordeiro&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117 " />
-</div>
-
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul-cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Raul Cordeiro github stats" />
+ 
+ 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raul-Cordeiro&bg_color=000000&color=a600ff&line=66ff00&point=fa0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
