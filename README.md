@@ -17,9 +17,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raul-Cordeiro&bg_color=000000&color=a600ff&line=66ff00&point=fa0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div alien="center" >
+<div >
    <img src="https://github-profile-trophy.vercel.app/?username=Raul-cordeiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
    <img  width="230px" src="https://scontent.fgyn4-2.fna.fbcdn.net/v/t39.30808-6/322954309_1202954270327404_5850537765313885968_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGDZRkgHE8RhmK37b_eKFuminRLCDGWzr-KdEsIMZbOv1QlSmXwhAuWpB7JdDjDAbNMbCNCgyrt4z-2d03wXuug&_nc_ohc=Dus0_-phVawAX_lK7QG&_nc_ht=scontent.fgyn4-2.fna&oh=00_AfAUBJOMW0h14keKFiuGwG0ODh_9GEbmXfPiFL0yxXNfIA&oe=63B7414B" /> 
+   <img  width="230px" src="https://scontent.fgyn4-2.fna.fbcdn.net/v/t39.30808-6/320221569_569592824604190_8943829775768663230_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEG2mlqWgWErfO_BhrkL08QoqWE_tQKLs-ipYT-1Aouz4c-QGu-gUo9PTwLc3HS6a6N422QdnzRw-C7pJU6RlSE&_nc_ohc=83K6hEf0wKAAX-anXPX&_nc_ht=scontent.fgyn4-2.fna&oh=00_AfByP9Ihtf5adhUN6nMwiCGZKXjc_c60-bcp8QmqMeCZiA&oe=63B7F218" /> 
  </div>
 
 
