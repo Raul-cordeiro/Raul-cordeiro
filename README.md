@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
+
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Meu+Nome+é+Raul+Cordeiro+;Estudo+Front-end+!;Obrigado+pela+visita!;Seja+Bem+vindo!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com/?color=8A2BE2&lines=Tecnologia+da+Informação!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000">
 
 
 <div flex-direction: column >
