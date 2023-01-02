@@ -1,6 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com/?lines=Meu+Nome+é+Raul+Cordeiro+;Estudo+Front-end+!;Obrigado+pela+visita!;Seja+Bem+vindo!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
-
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35¢er=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+is+Raul-cordeiro;estou +40+anos;Sou+do+Brasil;Sou+formando+em+Gestão+em+Tecnologia+da+Informação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul-cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Raul Cordeiro github stats" />
