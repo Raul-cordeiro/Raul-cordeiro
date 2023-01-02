@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Meu+Nome+é+Raul+Cordeiro+;Estudo+Front-end+!;Obrigado+pela+visita!;Seja+Bem+vindo!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul-cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Raul Cordeiro github stats" />
@@ -39,4 +44,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120§ion=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
