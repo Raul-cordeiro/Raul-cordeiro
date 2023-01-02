@@ -7,7 +7,8 @@
  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul-cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Raul Cordeiro github stats" />
  <img  width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-cordeiro&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" /> 
-
+ 
+ 
 </div>
  
  
@@ -16,8 +17,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raul-Cordeiro&bg_color=000000&color=a600ff&line=66ff00&point=fa0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raul-cordeiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<div alien="center" >
+   <img src="https://github-profile-trophy.vercel.app/?username=Raul-cordeiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+   <img  width="230px" src="https://scontent.fgyn4-2.fna.fbcdn.net/v/t39.30808-6/322954309_1202954270327404_5850537765313885968_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGDZRkgHE8RhmK37b_eKFuminRLCDGWzr-KdEsIMZbOv1QlSmXwhAuWpB7JdDjDAbNMbCNCgyrt4z-2d03wXuug&_nc_ohc=Dus0_-phVawAX_lK7QG&_nc_ht=scontent.fgyn4-2.fna&oh=00_AfAUBJOMW0h14keKFiuGwG0ODh_9GEbmXfPiFL0yxXNfIA&oe=63B7414B" /> 
+ </div>
 
 
 
